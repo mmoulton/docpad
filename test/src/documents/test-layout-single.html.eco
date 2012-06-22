@@ -1,0 +1,7 @@
+---
+layout: 'layout-single'
+title: 'Layout Single Test'
+---
+
+<div class="title"><%=@document.title or 'Untitled'%></div>
+<div class="content">THE Layout Single Test</div>

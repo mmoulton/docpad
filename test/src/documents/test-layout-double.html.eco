@@ -1,0 +1,7 @@
+---
+layout: 'layout-double'
+title: 'Layout Double Test'
+---
+
+<div class="title"><%=@document.title or 'Untitled'%></div>
+<div class="content">THE Layout Double Test</div>
